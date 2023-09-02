@@ -3,3 +3,4 @@ CTkMessagebox
 requests
 psutil
 pyautogui
+opencv-python
