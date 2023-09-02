@@ -1,0 +1,5 @@
+customtkinter
+CTkMessagebox
+requests
+psutil
+pyautogui
